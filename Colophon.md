@@ -7,7 +7,7 @@
  
 * Software
      - Electron
-     - 
+     - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
      - 
      - 
 * Online tools

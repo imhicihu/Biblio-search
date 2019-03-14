@@ -8,7 +8,8 @@
 * Software
      - Electron
      - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
-     - 
+     - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
+
      - 
 * Online tools
      - 

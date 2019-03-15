@@ -1,2 +1,2 @@
 * https://github.com/dfahlander/Dexie.js#hello-world-es2015--es6
-* https://www.techiediaries.com/electron-data-persistence/  => LeÃ­do
+* https://www.techiediaries.com/electron-data-persistence/  => Leído  (take in count the tutorial about insert an sqlite3 database)

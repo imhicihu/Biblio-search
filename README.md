@@ -20,7 +20,8 @@
 * Configuration
     - _In the making_
 * Dependencies
-    - _In the making_
+    - [Node.js](https://nodejs.org/)
+    - [NPM](https://www.npmjs.com/)
 * Database
     - Check our digital [repository](https://bitbucket.org/imhicihu/databases-repositories)
 * Deployment instructions

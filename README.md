@@ -2,6 +2,8 @@
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 ![issues-open](https://img.shields.io/badge/issues-open-green.svg)
 
+                                                 (...) a single JSON file can be used as a database.
+
 # RATIONALE #
 
 * A custom app to be available in the Windows, MacOSX  and Linux realm with a focus on simplicity and minimalism

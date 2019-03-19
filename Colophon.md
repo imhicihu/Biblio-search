@@ -27,8 +27,8 @@
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
         - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
-     - 
-     
+     - Browser database comparison
+        - [Comparison](http://nolanlawson.github.io/database-comparison/)
 * Documentation
      - _Vide_ `Bibliography.md`
      - 

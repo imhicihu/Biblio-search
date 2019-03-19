@@ -29,6 +29,8 @@
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
      - Browser database comparison
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
+     - Distribution
+        - [Softpedia](https://www.softpedia.com/)
 * Documentation
      - _Vide_ `Bibliography.md`
      - 

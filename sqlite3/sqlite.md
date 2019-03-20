@@ -12,3 +12,5 @@ SQLite is a native module so it needs to be recompiled before it can be used wit
 To target different architectures you need to rebuild SQLite for each possible architecture.
 
 (from https://www.techiediaries.com/electron-data-persistence/)
+
+https://www.laurivan.com/make-electron-work-with-sqlite3/  (read on 2019/03/19) follow the advice about the creation of the database (some issues can be acomplished instead it's the rebuilding time)

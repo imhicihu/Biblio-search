@@ -7,6 +7,7 @@
  
 * Software
      - [Electron](https://electronjs.org/)
+     - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
      - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
      - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
      - [sql.js](https://github.com/kripken/sql.js): a kind of SQLite compiled/formulated to javascript

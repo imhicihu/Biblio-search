@@ -18,7 +18,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - _In the making_
+    - Check `colophon.md`
 * Configuration
     - _In the making_
 * Dependencies

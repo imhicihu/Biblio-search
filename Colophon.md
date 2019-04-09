@@ -14,6 +14,8 @@
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
         - [sql.js](https://github.com/kripken/sql.js): a kind of SQLite compiled/formulated to javascript
+        - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser): create, design, and edit database files compatible with SQLite
+        ![screenshot.png](https://bitbucket.org/repo/yprLRxE/images/85065295-screenshot.png)
 * Online tools
      - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool

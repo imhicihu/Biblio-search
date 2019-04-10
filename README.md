@@ -24,6 +24,7 @@
 * Dependencies
     - [Node.js](https://nodejs.org/)
     - [NPM](https://www.npmjs.com/)
+    - [Homebrew](https://brew.sh/)
 * Database
     - Check our digital [repository](https://bitbucket.org/imhicihu/databases-repositories)
 * Deployment instructions

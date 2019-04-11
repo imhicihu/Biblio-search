@@ -25,6 +25,7 @@
     - [Node.js](https://nodejs.org/)
     - [NPM](https://www.npmjs.com/)
     - [Homebrew](https://brew.sh/)
+    - [Yarn](https://yarnpkg.com/)
 * Database
     - Check our digital [repository](https://bitbucket.org/imhicihu/databases-repositories)
 * Deployment instructions

@@ -9,6 +9,8 @@
         - [Electron](https://electronjs.org/)
         - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
+     - Bibliographic searcher:
+        - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers

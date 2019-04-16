@@ -14,7 +14,7 @@
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
-        - [sql.js](https://github.com/kripken/sql.js): a kind of SQLite compiled/formulated to javascript
+        - [sql.js](https://github.com/kripken/sql.js): a kind of SQLite compiled/formulated oriented to javascript
         - [Dexie.js](https://dexie.org/): a wrapper for IndexedDB  (_experimental_ for our time schedule)
         - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser): create, design, and edit database files compatible with SQLite
         ![screenshot.png](https://bitbucket.org/repo/yprLRxE/images/85065295-screenshot.png)
@@ -30,6 +30,7 @@
         - [FOSSA](https://fossa.io/): dependency tracking, license compliance and attribution notices
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
         - [Yarn](https://yarnpkg.com): dependency manager for node.js
+        - [ndm](https://github.com/720kb/ndm): a npm desktop manager
      - Browser database comparison
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
      - Distribution

@@ -33,6 +33,8 @@
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
         - [Yarn](https://yarnpkg.com): dependency manager for node.js
         - [ndm](https://github.com/720kb/ndm): a npm desktop manager
+     - Databases
+        - [Online SQL interpreter](http://kripken.github.io/sql.js/GUI/): support `sqlite3` file format
      - Browser database comparison
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
      - Distribution

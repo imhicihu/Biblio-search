@@ -18,6 +18,8 @@
         - [Dexie.js](https://dexie.org/): a wrapper for IndexedDB  (_experimental_ for our time schedule)
         - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser): create, design, and edit database files compatible with SQLite
         ![screenshot.png](https://bitbucket.org/repo/yprLRxE/images/85065295-screenshot.png)
+      - Terminal:
+        - [Hyper](https://hyper.is/): Terminal console for the MacOSX
 * Online tools
      - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool

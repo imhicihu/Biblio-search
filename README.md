@@ -24,6 +24,8 @@
 * Dependencies
     - [Node.js](https://nodejs.org/)
     - [NPM](https://www.npmjs.com/)
+      + Packages:
+              - [nvm](https://github.com/creationix/nvm)
     - [Homebrew](https://brew.sh/)
     - [Yarn](https://yarnpkg.com/)
 * Database

@@ -7,3 +7,6 @@
 ## Datatables ##
 * https://toni-heittola.github.io/js-datatable/   (some kind of realtime database, look for the built-in searcher)
 * https://bit.dev/components?q=datatables
+
+## Distribution ##
+* Check [Chocolatey](https://chocolatey.org/docs/create-packages) automation on Windows environment

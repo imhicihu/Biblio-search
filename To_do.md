@@ -10,3 +10,6 @@
 
 ## Distribution ##
 * Check [Chocolatey](https://chocolatey.org/docs/create-packages) automation on Windows environment
+
+## Internal searcher ##
+* Fuzzy search algorithm (comes in Javascript kind of)

@@ -20,6 +20,8 @@
         ![screenshot.png](https://bitbucket.org/repo/yprLRxE/images/85065295-screenshot.png)
       - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
+      - Local server environment on MacOSX
+        - [httpster](https://github.com/SimbCo/httpster)
 * Online tools
      - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool

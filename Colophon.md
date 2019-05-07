@@ -9,8 +9,14 @@
         - [Electron](https://electronjs.org/)
         - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
+     - Backup:
+        - [Duplicati](https://www.duplicati.com/) (open-source backup software)
+        - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)
+        - [IFTTT](https://ifttt.com/): cross-linking between online services for the purpose of backup capabilities and mirroring of digital assets
      - Bibliographic searcher:
         - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
+     - Styling:
+        - [Material-UI](https://material-ui.com/): 
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
@@ -18,10 +24,20 @@
         - [Dexie.js](https://dexie.org/): a wrapper for IndexedDB  (_experimental_ for our time schedule)
         - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser): create, design, and edit database files compatible with SQLite
         ![screenshot.png](https://bitbucket.org/repo/yprLRxE/images/85065295-screenshot.png)
+      - Data validators:
+        - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
+        - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
+        - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
+        - [CSVLint](http://csvlint.io/): CSV linter for databases
+        - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
+        - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
       - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
       - Local server environment on MacOSX
         - [httpster](https://github.com/SimbCo/httpster)
+      - Packages management
+        - [Homebrew](http://brew.sh/): package manager for MacOSX
+        - [NPM](https://www.npmjs.com/): Javascript package manager
 * Online tools
      - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool

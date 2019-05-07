@@ -31,6 +31,9 @@
         - [CSVLint](http://csvlint.io/): CSV linter for databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
         - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
+      - [Atom](https://atom.io): (code editor)
+           * Atom packages
+               - Linter
       - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
       - Local server environment on MacOSX

@@ -36,6 +36,8 @@
                - Linter
       - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
+      - GIT
+        - [SourceTree](https://www.sourcetreeapp.com/): GIT client
       - Local server environment on MacOSX
         - [httpster](https://github.com/SimbCo/httpster)
       - Packages management

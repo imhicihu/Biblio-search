@@ -15,3 +15,6 @@
 
 ## Internal searcher ##
 * [Fuzzy search](https://fusejs.io/) algorithm (comes in Javascript flavour)
+
+## Updater ##
+* https://github.com/PhilippLgh/electron-app-manager

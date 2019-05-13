@@ -43,6 +43,8 @@
       - Packages management
         - [Homebrew](http://brew.sh/): package manager for MacOSX
         - [NPM](https://www.npmjs.com/): Javascript package manager
+      - NPM packages
+        - Electron compile
 * Online tools
      - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool

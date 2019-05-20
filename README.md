@@ -24,14 +24,14 @@
 * Dependencies
     - [Node.js](https://nodejs.org/)
     - [NPM](https://www.npmjs.com/)
-      + Packages:
+        + Packages:
               - [nvm](https://github.com/creationix/nvm)
+              - Lint
+              - Debug
     - [Homebrew](https://brew.sh/)
     - [Yarn](https://yarnpkg.com/)
 * Database
     - Check our digital [repository](https://bitbucket.org/imhicihu/databases-repositories)
-* Deployment instructions
-    - [NPM](https://www.npmjs.com/)
 
 ### Source ###
 

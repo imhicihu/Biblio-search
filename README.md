@@ -28,6 +28,7 @@
               - [nvm](https://github.com/creationix/nvm)
               - Lint
               - Debug
+              - [Devtron](https://github.com/electron/devtron)
     - [Homebrew](https://brew.sh/)
     - [Yarn](https://yarnpkg.com/)
 * Database

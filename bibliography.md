@@ -6,3 +6,7 @@
 * _Get programming with Javascript_: John R. Larsen (Manning Publications, 2016)
 * You Don't Know JS (book series): Kyle Simpson, 2013-2018. Online version can be read it [here](https://github.com/getify/You-Dont-Know-JS)
 * _Eloquent Javascript_: Marijn Haverbeke (December 2018, 472 pp. ISBN-13: 9781593279509). Online version can be read it [here](https://eloquentjavascript.net/)
+
+## Electron
+* _Building Cross-Platform Desktop Applications with Electron_: Muhammed Jasim (Packt Publishing, 2017)
+* _Electron in Action_: Steve Kinney (Manning, 2019, 376 pp.)

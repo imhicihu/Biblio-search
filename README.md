@@ -29,6 +29,7 @@
               - Lint
               - Debug
               - [Devtron](https://github.com/electron/devtron)
+              - [electron-db](https://github.com/alexiusacademia/electron-db)
     - [Homebrew](https://brew.sh/)
     - [Yarn](https://yarnpkg.com/)
 * Database

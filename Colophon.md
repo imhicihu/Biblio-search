@@ -15,8 +15,10 @@
         - [IFTTT](https://ifttt.com/): cross-linking between online services for the purpose of backup capabilities and mirroring of digital assets
      - Bibliographic searcher:
         - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
-     - Styling:
+     - UX:
         - [Material-UI](https://material-ui.com/): 
+     - Internal searcher:
+        - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers

@@ -19,6 +19,7 @@
         - [Material-UI](https://material-ui.com/): 
      - Internal searcher:
         - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)
+        - [lunr](https://github.com/olivernn/lunr.js)
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
@@ -36,6 +37,7 @@
       - [Atom](https://atom.io): (code editor)
            * Atom packages
                - Linter
+               - Debug
       - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
       - GIT

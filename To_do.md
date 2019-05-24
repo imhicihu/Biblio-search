@@ -1,23 +1,19 @@
+## Internal searcher ##
+* https://github.com/electron/algolia-indices/
+* [Fuzzy search](https://fusejs.io/) algorithm (comes in Javascript flavour)
 ## NPM ##
 * https://docs.npmjs.com/getting-started/fixing-npm-permissions   (take in count to fix some...)
-* [n - nteractively Manage Your Node.js Versions](https://github.com/tj/n)
+* [n - interactively Manage Your Node.js Versions](https://github.com/tj/n)
 * ![n](https://i.ibb.co/178p1SS/687474703a2f2f6e696d69742e696f2f696d616765732f6e2f6e2e676966.gif)
 ## Database ##
 * https://rxdb.info/ >> real time database, even offline mode (take in count in the RoadMap)
 * https://github.com/bengotow/electron-RxDB
-
 ## Datatables ##
 * https://toni-heittola.github.io/js-datatable/   (some kind of realtime database, look for the built-in searcher)
 * https://bit.dev/components?q=datatables
-
 ## Distribution ##
 * Check [Chocolatey](https://chocolatey.org/docs/create-packages) automation on Windows environment
-
-## Internal searcher ##
-* [Fuzzy search](https://fusejs.io/) algorithm (comes in Javascript flavour)
-
 ## Updater ##
 * https://github.com/PhilippLgh/electron-app-manager
-
 ## Codesign-in app in MacOSX
 * https://github.com/electron-userland/electron-osx-sign/

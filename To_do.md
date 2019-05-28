@@ -8,6 +8,8 @@
 ## Database ##
 * https://rxdb.info/ >> real time database, even offline mode (take in count in the RoadMap)
 * https://github.com/bengotow/electron-RxDB
+## Crash reporting ##
+* [Socorro](https://github.com/mozilla/socorro): _Vide_ https://github.com/electron/mini-breakpad-server
 ## Datatables ##
 * https://toni-heittola.github.io/js-datatable/   (some kind of realtime database, look for the built-in searcher)
 * https://bit.dev/components?q=datatables
@@ -15,5 +17,5 @@
 * Check [Chocolatey](https://chocolatey.org/docs/create-packages) automation on Windows environment
 ## Updater ##
 * https://github.com/PhilippLgh/electron-app-manager
-## Codesign-in app in MacOSX
+## Codesign-in app in MacOSX ##
 * https://github.com/electron-userland/electron-osx-sign/

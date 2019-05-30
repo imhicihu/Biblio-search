@@ -19,3 +19,5 @@
 * https://github.com/PhilippLgh/electron-app-manager
 ## Codesign-in app in MacOSX ##
 * https://github.com/electron-userland/electron-osx-sign/
+## FAQ (bot)
+* [Impossiblebot](https://impossible.bot/)

@@ -32,6 +32,7 @@
               - [electron-db](https://github.com/alexiusacademia/electron-db)
     - [Homebrew](https://brew.sh/)
     - [Yarn](https://yarnpkg.com/)
+    - [Gulp](https://gulpjs.com) (javascript task automatization)
 * Database
     - Check our digital [repository](https://bitbucket.org/imhicihu/databases-repositories)
 

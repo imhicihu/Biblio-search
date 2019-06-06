@@ -18,6 +18,8 @@
      - Accessibility
         - [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
         - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
+     	- [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
+        - [Web Accessibility Checklist](https://a11yproject.com/checklist)
      - UX:
         - [Material-UI](https://material-ui.com/): 
      - Internal searcher:

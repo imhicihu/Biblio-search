@@ -18,7 +18,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Check `colophon.md`
+    - Check [colophon.md](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src/master/Colophon.md)
 * Configuration
     - _In the making_
 * Dependencies

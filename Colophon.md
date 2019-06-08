@@ -62,6 +62,8 @@
         - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
         - [Tabulator](http://tabulator.info/): Javascript html table library
+     - Coding
+        - [Gitpod](https://gitpod.io/): online IDE for Github
      - Dependencies (manager):
         - [FOSSA](https://fossa.io/): dependency tracking, license compliance and attribution notices
         - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries

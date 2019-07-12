@@ -10,3 +10,7 @@
 ## Electron
 * _Building Cross-Platform Desktop Applications with Electron_: Muhammed Jasim (Packt Publishing, 2017)
 * _Electron in Action_: Steve Kinney (Manning, 2019, 376 pp.)
+
+## Data tables
+* [Designing Tables for Reusability](https://uxdesign.cc/designing-tables-for-reusability-490a3760533)
+* [Design better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)

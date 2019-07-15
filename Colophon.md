@@ -76,6 +76,8 @@
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
      - Distribution
         - [Softpedia](https://www.softpedia.com/)
+     - User suggestions
+        - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
 * Documentation
      - _Vide_ [`Bibliography.md`](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src/e7760ff6ddfeae38d5ba7667477c334b087ca525/bibliography.md?at=master&fileviewer=file-view-default)
      - [Mozilla Developers Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

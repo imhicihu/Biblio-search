@@ -7,3 +7,4 @@
 * https://github.com/ptmt/react-native-macos  (take in count the "component examples" at the bottom of the pages on `RNTesterApp`)
 * https://github.com/pubkey/rxdb/tree/master/examples/electron  
 * https://youmightnotneedelectron.com/
+* https://github.com/electron-userland/electron-packager#building-windows-apps-from-non-windows-platforms/

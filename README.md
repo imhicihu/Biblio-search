@@ -36,6 +36,18 @@
 * Database
     - Check our digital [repository](https://bitbucket.org/imhicihu/databases-repositories)
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Migration data](https://bitbucket.org/imhicihu/migration-data-checklist/src/)
+     - [Terrae database](https://bitbucket.org/imhicihu/terrae-database/src/)
+     - [Bibliographical hybrid (mobile app)](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src/)
+     - [Bibliographical database (migration)](https://bitbucket.org/imhicihu/bibliographical-database-migration/src/)
+     - [Bibliographic data on iOS devices](https://bitbucket.org/imhicihu/bibliographic-data-on-ios-devices/src/)
+     - [NPM under proxy (settings)](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/)
+     - [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/)
+     - [Migration data between different MacOS environments (Checklist)](https://bitbucket.org/imhicihu/migration-data-between-different-macos-environments-checklist/src/)  
+
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src)

@@ -8,6 +8,7 @@
 
 * A custom app to be available in the Windows, MacOSX  and Linux realm with a focus on simplicity and minimalism
 * This repo is a living document that will grow and adapt over time
+![stand-alone.png](https://bitbucket.org/repo/yprLRxE/images/605919001-stand_alone.png)
 
 ### What is this repository for? ###
 

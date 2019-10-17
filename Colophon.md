@@ -25,6 +25,9 @@
      - Internal searcher:
         - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)
         - [lunr](https://github.com/olivernn/lunr.js)
+     - Code editor
+        - [Atom editor](https://atom.io):
+        - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers

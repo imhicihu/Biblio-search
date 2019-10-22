@@ -9,6 +9,8 @@
         - [Electron](https://electronjs.org/)
         - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
+        * API:
+              - [Electron API demos](https://github.com/electron/electron-api-demos/releases/)
      - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
         - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)

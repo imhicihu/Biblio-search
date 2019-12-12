@@ -17,6 +17,8 @@
         - [IFTTT](https://ifttt.com/): cross-linking between online services for the purpose of backup capabilities and mirroring of digital assets
      - Bibliographic searcher:
         - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
+     - Debugger
+        - [Debugtron](https://github.com/bytedance/debugtron)
      - Accessibility
         - [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
         - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)

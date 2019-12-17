@@ -16,9 +16,10 @@
         - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)
         - [IFTTT](https://ifttt.com/): cross-linking between online services for the purpose of backup capabilities and mirroring of digital assets
      - Bibliographic searcher:
-        - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
+        - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers
      - Debugger
         - [Debugtron](https://github.com/bytedance/debugtron)
+        - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
      - Accessibility
         - [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
         - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)

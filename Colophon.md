@@ -4,6 +4,9 @@
      - Macbook 13"
 	 - Macbook 15"
 	 - Dell notebook 15"
+     - Satechi Type-C Multiport Adapter (hub USB & Network access)
+     - _Hosting_: Consorcio Saavedra 15
+     - _Bandwidth_: Consorcio Saavedra 15
 * Software
      - Electron:
         - [Electron](https://electronjs.org/)
@@ -20,6 +23,8 @@
      - Debugger
         - [Debugtron](https://github.com/bytedance/debugtron)
         - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
+     - Testing
+        - [Spectron](http://electronjs.org/spectron): sets up and tears down your app and allows it to be test-driven remotely with full support for the Electron APIs
      - Accessibility
         - [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
         - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
@@ -33,7 +38,10 @@
         - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)
         - [lunr](https://github.com/olivernn/lunr.js)
      - Code editor
-        - [Atom editor](https://atom.io):
+        - [Atom editor](https://atom.io): (code editor)
+              - Atom packages
+                  * Linter
+                  * Debug
         - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
@@ -49,10 +57,6 @@
         - [CSVLint](http://csvlint.io/): CSV linter for databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
         - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
-      - [Atom](https://atom.io): (code editor)
-           * Atom packages
-               - Linter
-               - Debug
       - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
       - GIT

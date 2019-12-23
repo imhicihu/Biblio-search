@@ -8,7 +8,7 @@
      - _Hosting_: Consorcio Saavedra 15
      - _Bandwidth_: Consorcio Saavedra 15
 * Software
-     - Electron:
+     - Electron (frameworks):
         - [Electron](https://electronjs.org/)
         - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
@@ -35,13 +35,14 @@
      - UX:
         - [Material-UI](https://material-ui.com/): 
      - Internal searcher:
+        - [Electron Algolia](https://github.com/electron/algolia-indices)
         - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)
         - [lunr](https://github.com/olivernn/lunr.js)
      - Code editor
         - [Atom editor](https://atom.io): (code editor)
               - Atom packages
-                  * Linter
-                  * Debug
+                     * Linter
+                     * Debug
         - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
@@ -67,7 +68,7 @@
         - [Homebrew](http://brew.sh/): package manager for MacOSX
         - [NPM](https://www.npmjs.com/): Javascript package manager
       - NPM packages
-        - Electron compile
+        - `Electron compile`
 * Online tools
      - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool
@@ -90,6 +91,7 @@
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
      - Distribution
         - [Softpedia](https://www.softpedia.com/)
+        - [Github]((https://github.com/)
      - User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
      - Documentation

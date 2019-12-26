@@ -10,7 +10,8 @@
 * Software
      - Electron (frameworks):
         - [Electron](https://electronjs.org/)
-        - [Electron Forge](https://www.electronforge.io/):
+        - [Electron Forge](https://www.electronforge.io/)
+        - [Electron-installer-windows](https://github.com/electron-userland/electron-installer-windows)
         - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
         * API:
@@ -19,14 +20,12 @@
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
         - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)
         - [IFTTT](https://ifttt.com/): cross-linking between online services for the purpose of backup capabilities and mirroring of digital assets
-     - Bibliographic searcher:
-        - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers
      - Debugger
         - [Debugtron](https://github.com/bytedance/debugtron)
         - [Firefox Browser Developer Edition](https://www.mozilla.org/es-AR/firefox/developer/)
      - Testing
         - [Spectron](http://electronjs.org/spectron): sets up and tears down your app and allows it to be test-driven remotely with full support for the Electron APIs
-        - [Gremlins.js](https://github.com/marmelab/gremlins.js)
+        - [Gremlins.js](https://github.com/marmelab/gremlins.js): torture tester
      - Accessibility
         - [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
         - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
@@ -35,7 +34,7 @@
      - Color palette
         - [Flat UI colors](https://flatuicolors.com/)
      - UX:
-        - [Material-UI](https://material-ui.com/): 
+        - [Material-UI](https://material-ui.com/)
      - Internal searcher:
         - [Electron Algolia](https://github.com/electron/algolia-indices)
         - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)

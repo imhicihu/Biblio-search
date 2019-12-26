@@ -10,6 +10,7 @@
 * Software
      - Electron (frameworks):
         - [Electron](https://electronjs.org/)
+        - [Electron Forge](https://www.electronforge.io/):
         - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
         * API:

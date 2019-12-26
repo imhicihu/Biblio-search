@@ -94,7 +94,7 @@
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
      - Distribution
         - [Softpedia](https://www.softpedia.com/)
-        - [Github]((https://github.com/)
+        - [Github](https://github.com/)
      - User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
      - Documentation

@@ -103,6 +103,7 @@
      - _Vide_ [`Bibliography.md`](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src/e7760ff6ddfeae38d5ba7667477c334b087ca525/bibliography.md?at=master&fileviewer=file-view-default)
      - [Mozilla Developers Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
      - [Developer certificate](https://developercertificate.org/)
+     - [libs.garden](https://libs.garden/): technical libraries searcher
      - [Devdocs.io](https://devdocs.io/): documentation about multiple APIs
      - [issuehub.io](http://issuehub.io/): Github issues searcher
      - Windows (and something in between, _ie._ Android environment) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)

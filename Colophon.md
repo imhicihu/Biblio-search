@@ -30,6 +30,7 @@
      - Testing
         - [Spectron](http://electronjs.org/spectron): sets up and tears down your app and allows it to be test-driven remotely with full support for the Electron APIs
         - [Gremlins.js](https://github.com/marmelab/gremlins.js): torture tester
+        - (SauceLabs][https://saucelabs.com/]: Live, automated and continuous testing for web & mobile apps
      - Accessibility
         - [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
         - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)

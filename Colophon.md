@@ -1,6 +1,6 @@
 ## Technical requeriments ##
 
-* Hardware (these are what we use)
+* Hardware
      - Macbook 13"
 	 - Macbook 15"
 	 - Dell notebook 15"
@@ -50,6 +50,8 @@
                      * Linter
                      * Debug
         - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
+     - Table converter
+        - [Table convert](https://tableconvert.com/): converter to a plethora of formats
      - Database: 
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers

@@ -23,8 +23,9 @@
 ## Codesign-in app in MacOSX ##
 * https://github.com/electron/electron-osx-sign (use this first!)
 * https://github.com/electron-userland/electron-osx-sign/
+## Notarizing macOS Software Before Distribution
+* https://developer.apple.com/documentation/xcode/notarizing_macos_software_before_distribution?preferredLanguage=occ
 ## FAQ (bot)
 * [Impossiblebot](https://impossible.bot/)
-
 ## Tutorial
 * https://calendly.com/

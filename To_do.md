@@ -27,5 +27,5 @@
 * https://developer.apple.com/documentation/xcode/notarizing_macos_software_before_distribution?preferredLanguage=occ
 ## FAQ (bot)
 * [Impossiblebot](https://impossible.bot/)
-## Tutorial
-* https://calendly.com/
+## Miscellaneous
+* [Why not to build an Electron App](https://medium.com/shipmnts/why-not-to-build-an-electron-app-92b2f5a99d33)

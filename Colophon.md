@@ -87,6 +87,8 @@
         - [NPM](https://www.npmjs.com/): package manager for JavaScript
         - [Tabulator](http://tabulator.info/): Javascript html table library
         - [QUnit](https://qunitjs.com/): JavaScript Unit Testing framework
+     - Prototyping
+        - [Codesanbox](https://codesandbox.io/): web development & online IDE
      - Coding
         - [Gitpod](https://gitpod.io/): online IDE for Github
      - Dependencies (manager):

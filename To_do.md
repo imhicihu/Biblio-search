@@ -1,6 +1,8 @@
 ## Internal searcher ##
 * [Algolia indices](https://github.com/electron/algolia-indices/)
 * [Fuzzy search](https://fusejs.io/) algorithm (comes in Javascript flavour!)
+## Accesibility
+* [How to Design for Screen Readers with Adobe XD CC](https://www.sitepoint.com/how-to-design-for-screen-readers-with-adobe-xd-cc/?utm_source=feedly)
 ## NPM ##
 * https://docs.npmjs.com/getting-started/fixing-npm-permissions   (take in count to fix some...)
 * [n - interactively Manage Your Node.js Versions](https://github.com/tj/n)

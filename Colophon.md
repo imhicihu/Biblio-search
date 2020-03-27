@@ -82,6 +82,7 @@
      - Javascript:
         - [Jest](https://jestjs.io/): Javascript testing tool
         - [Javascript validator](https://validatejavascript.com/)
+        - [Javascript scripting](https://www.javascripting.com/): source of the best JavaScript libraries, frameworks, and plugins
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
         - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
         - [NPM](https://www.npmjs.com/): package manager for JavaScript

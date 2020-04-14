@@ -16,7 +16,7 @@
         - [Electron-installer-windows](https://github.com/electron-userland/electron-installer-windows)
         - [electron-builder-binaries](https://github.com/electron-userland/electron-builder-binaries)
         - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg)
-        - [Electron Fiddle](https://github.com/electron/fiddle): some test without dependencies. _Experimental_
+        - [Electron Fiddle](https://www.electronjs.org/fiddle): some test without dependencies. _Experimental_
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
         * API:
               - [Electron API demos](https://github.com/electron/electron-api-demos/releases/)

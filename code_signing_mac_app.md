@@ -6,3 +6,16 @@
 * check this issue on [code-signing](https://github.com/electron/electron/issues/20027)
 * [Codesigning Electron Applications](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 * If have issues in the codesign step when running `yarn run package`, you can temporarily disable code signing locally by setting export `CSC_IDENTITY_AUTO_DISCOVERY=false` for the current terminal session.
+---------
+* Use an internet browser to go to the Releases section at https://github.com/imhicihu/BiblioSearcher/releases
+* If you're using a Mac OSX, click on BiblioSearcher-darwin-x64.zip to download it to your `Downloads` folder.
+* Unzip the file by double-clicking on the zip file.
+* In Finder, navigate into the `BiblioSearcher-darwin-x64` folder.
+* Click Finder menu `File`, `New Finder` window.
+* In that new window, click menu `Go`, then `Applications`.
+* Drag Git-it and drop it into the Applications files.
+* Hold down the `control` key on your keyboard and click `BiblioSearcher` for the context menu:
+* `BiblioSearcher` open
+* Click `Open`.
+* Click `Open` to confirm the warning:
+* The `BiblioSearcher` welcome screen should appear

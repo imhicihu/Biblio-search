@@ -22,7 +22,7 @@
 * Summary of set up
     - Check [colophon.md](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src/master/Colophon.md)
 * Configuration
-    - _In the making_
+    - ["Don't expect that you can build app for all platforms on one platform."](https://www.electron.build/multi-platform-build)
 * Dependencies
     - [Node.js](https://nodejs.org/)
     - [NPM](https://www.npmjs.com/)

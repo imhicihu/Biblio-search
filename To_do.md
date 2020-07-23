@@ -12,6 +12,8 @@
 ## Character map (at request)
 * [React character map](https://github.com/Dayjo/react-character-map): to allow international characters in the search query
 - ![map_character.gif](https://i.ibb.co/C0DWtxs/687474703a2f2f632e6461796a6f2e6d652f304932483073304d3073324f2f53637265656e2532305265636f7264696e67253230323031382d30312d3236253230617425323030322e3531253230706d2e676966.gif)
+## Linux app store
+* [SnapCraft](https://snapcraft.io/)
 ## Database ##
 * https://rxdb.info/ >> real time database, even offline mode (take in count in the RoadMap)
 * https://github.com/bengotow/electron-RxDB

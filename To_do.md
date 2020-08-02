@@ -1,5 +1,19 @@
 ## User login ##
 * https://auth0.com/universal-login/
+## Checksum
+* Verify your downloads: SHA-1 CHECKSUM
+
+
+```
+959ae06f369493dd1bea44695715d5e4599ab2b9  IMHICIHU-Searcher-3.1.0.ga-1.i386.rpm
+a9da7e15c9db870af654e8b5462e47839b55b07f  IMHICIHU-Searcher-3.1.0.ga-1.x86_64.rpm
+a016f0824dcfb791adadd564ef4c287bc4dfaa1d  IMHICIHU-Searcher_3.1.0.ga_amd64.deb
+bb9d81a93f63b4bca4ecca7d7da47c49889685fd  IMHICIHU-Searcher-3.1.0.ga.dmg
+46e951408c17b09bd24aa6b5118eea2f08e316c6  IMHICIHU-Searcher_3.1.0.ga_i386.deb
+777b77f993d2b859677fe260fecec000f6ea6eec  IMHICIHU-Searcher-3.1.0.ga-i386.exe
+483bd366e9b5f7e996bb06c18e214eb051803254  IMHICIHU-Searcher-3.1.0.ga-x86_64.exe
+```
+
 ## Internal searcher ##
 * [Algolia indices](https://github.com/electron/algolia-indices/)
 * [Fuzzy search](https://fusejs.io/) algorithm (comes in Javascript flavour!)

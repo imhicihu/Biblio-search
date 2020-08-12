@@ -107,7 +107,7 @@
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
      - Distribution
         - [Softpedia](https://www.softpedia.com/)
-        - [Github](https://github.com/)
+        - [Github's](https://docs.github.com/en/enterprise/2.13/user/articles/creating-releases) release procedure
      - User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
      - Documentation

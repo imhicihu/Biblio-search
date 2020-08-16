@@ -19,3 +19,5 @@
 * Click `Open`.
 * Click `Open` to confirm the warning:
 * The `BiblioSearcher` welcome screen should appear
+---------
+Note that `BiblioSearcher` is an "unsigned application", so later versions of macOS will ask for extra confirmation the first time you run it.

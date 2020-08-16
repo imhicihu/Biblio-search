@@ -32,6 +32,7 @@
         - [Gremlins.js](https://github.com/marmelab/gremlins.js): torture tester
         - [Appetize.io](https://appetize.io/)
         - [SauceLabs](https://saucelabs.com/): Live, automated and continuous testing for web & mobile apps
+        - [Emmet Re:view](http://re-view.emmet.io/): Chrome extension to test responsive design in multiple viewports
      - Accessibility
         - [Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
         - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
@@ -46,7 +47,7 @@
         - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)
         - [lunr](https://github.com/olivernn/lunr.js)
      - Code editor
-        - [Atom editor](https://atom.io): (code editor)
+        - [Atom editor](https://atom.io)
               - Atom packages
                      * Linter
                      * Debug

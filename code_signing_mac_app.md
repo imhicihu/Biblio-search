@@ -26,3 +26,5 @@
 * The Catalina macOS download is notarized and uses the "hardened runtime," which may reduce compatibility with certain modules. You may still run the regular 64-bit macOS download on Catalina; however, you must right click and choose `Open` when running that version for the first time.
 
 ---------
+* [Notarizing Your App](https://samuelmeuli.com/blog/2019-12-28-notarizing-your-electron-app/)
+---------

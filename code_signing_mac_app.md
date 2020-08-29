@@ -27,4 +27,8 @@
 
 ---------
 * [Notarizing Your App](https://samuelmeuli.com/blog/2019-12-28-notarizing-your-electron-app/)
+
+---------
+* https://github.com/hello-efficiency-inc/raven-reader/blob/master/notarize.js
+
 ---------

@@ -32,3 +32,6 @@
 * https://github.com/hello-efficiency-inc/raven-reader/blob/master/notarize.js
 
 ---------
+* https://www.npmjs.com/package/electron-installer-codesign
+
+---------

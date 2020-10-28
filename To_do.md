@@ -40,10 +40,11 @@ bb9d81a93f63b4bca4ecca7d7da47c49889685fd  IMHICIHU-Searcher-3.1.0.ga.dmg
 * Check [Chocolatey](https://chocolatey.org/docs/create-packages) automation on Windows environment
 ## Updater ##
 * https://github.com/PhilippLgh/electron-app-manager
-## Codesign-in app in MacOSX ##
+## Codesign the app
+### Codesign-in app in MacOSX ##
 * https://github.com/electron/electron-osx-sign (use this first!)
 * https://github.com/electron-userland/electron-osx-sign/
-## Notarizing macOS Software Before Distribution
+### Notarizing macOS Software Before Distribution
 * https://developer.apple.com/documentation/xcode/notarizing_macos_software_before_distribution?preferredLanguage=occ
 ## FAQ (bot)
 * [Impossiblebot](https://impossible.bot/)

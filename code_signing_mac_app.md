@@ -37,9 +37,12 @@
 * https://www.npmjs.com/package/electron-installer-codesign
 
 ---------
-Manual:
-
+_Manual_:
 Download, open, and drag the app to the Applications folder.
 Since `BiblioSearcher` is not signed; go to `Preferences` > `Security & Privacy` > `General` > allow `BiblioSearcher`.
-
+---------
+_Note_: 
+Our package is unsigned and will remain like that for the foreseeable future.
+When opening it up for the first time you will be prompted that the developer cannot be verified.
+Hit cancel, go to `Security` and `Privacy` where there should be a section explaining that "BiblioSearcher" was blocked and an `Open Anyway` button next to it. Click that.
 ---------

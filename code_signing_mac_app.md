@@ -37,3 +37,9 @@
 * https://www.npmjs.com/package/electron-installer-codesign
 
 ---------
+Manual:
+
+Download, open, and drag the app to the Applications folder.
+Since `BiblioSearcher` is not signed; go to `Preferences` > `Security & Privacy` > `General` > allow `BiblioSearcher`.
+
+---------

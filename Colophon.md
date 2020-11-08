@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware
      - Macbook 13"
@@ -104,6 +104,7 @@
         ![687474703a2f2f692e696d6775722e636f6d2f364b4c337074372e706e67.jpg](https://bitbucket.org/repo/yprLRxE/images/3830680595-687474703a2f2f692e696d6775722e636f6d2f364b4c337074372e706e67.jpg)
      - Databases
         - [Online SQL interpreter](http://kripken.github.io/sql.js/GUI/): support `sqlite3` file format
+         - [Data converters](http://okfnlabs.org/dataconverters/): Unified python library and command line interface to convert data from one format to another (especially tabular data).
      - Browser database comparison
         - [Comparison](http://nolanlawson.github.io/database-comparison/)
      - Distribution

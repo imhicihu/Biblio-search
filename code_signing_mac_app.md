@@ -46,3 +46,6 @@ Our package is unsigned and will remain like that for the foreseeable future.
 When opening it up for the first time you will be prompted that the developer cannot be verified.
 Hit cancel, go to `Security` and `Privacy` where there should be a section explaining that "BiblioSearcher" was blocked and an `Open Anyway` button next to it. Click that.
 ---------
+
+By default, Mac OS only allows users to install applications from `verified sources`. In effect, this means that users are unable to install most applications downloaded from the internet or stored on physical media without receiving the error message below:
+

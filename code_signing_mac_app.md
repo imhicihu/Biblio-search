@@ -37,6 +37,9 @@
 * https://www.npmjs.com/package/electron-installer-codesign
 
 ---------
+* [Notarizing macOS Software Before Distribution](https://developer.apple.com/documentation/xcode/notarizing_macos_software_before_distribution)
+
+---------
 _Manual_:
 Download, open, and drag the app to the Applications folder.
 Since `BiblioSearcher` is not signed; go to `Preferences` > `Security & Privacy` > `General` > allow `BiblioSearcher`.

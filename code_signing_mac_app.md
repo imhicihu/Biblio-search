@@ -49,4 +49,4 @@ Our package is unsigned and will remain like that for the foreseeable future.
 When opening it up for the first time you will be prompted that the developer cannot be verified.
 Hit cancel, go to `Security` and `Privacy` where there should be a section explaining that "BiblioSearcher" was blocked and an `Open Anyway` button next to it. Click that.
 ---------
-
+_Note for Mac macOS Mojave users_: if you see `App can't be opened because Apple cannot check it for malicious software` when opening `BiblioSearcher` the first time, you can right-click the application and choose `Open`. This should only be required the first time opening on Mojave.

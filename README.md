@@ -9,6 +9,7 @@
 * A custom app to be available in the Windows, MacOSX  and Linux realm with a focus on simplicity and minimalism
 * Must comply with 2 premises: closed architecture across operating systems (_search_ and _show_ the results) and strict offline mode, so any query done do not need to connect to any remote server
 * This repo is a living document that will grow and adapt over time
+* The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 ![stand-alone.png](https://bitbucket.org/repo/yprLRxE/images/605919001-stand_alone.png)
 
 ### What is this repository for? ###

@@ -77,6 +77,7 @@
       - Packages management
         - [Homebrew](http://brew.sh/): package manager for MacOSX
         - [NPM](https://www.npmjs.com/): Javascript package manager
+        - [NVM](https://github.com/nvm-sh/nvm): version manager for node.js
       - NPM packages
         - `Electron compile`
 * Online tools

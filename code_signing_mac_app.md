@@ -31,6 +31,17 @@
 * [Notarizing Your App](https://samuelmeuli.com/blog/2019-12-28-notarizing-your-electron-app/)
 
 ---------
+`BiblioSearcher` can’t be opened opened  because it was not downloaded from the App Store.
+Your security preferences allow installation of only apps from the App Store.
+Click `Ok` then click the System Preferences button
+From the System Preferences click Security & Privacy button
+You will have message like this
+`BiblioSearcher` was blocked from opening because it is not from an identified developer.
+Click `Open Anyway`
+When `BiblioSearcher` is not from the App Store. Are you sure you want to open it? is shown
+Click `Open`
+---------
+
 * https://github.com/hello-efficiency-inc/raven-reader/blob/master/notarize.js
 
 ---------

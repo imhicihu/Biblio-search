@@ -10,7 +10,7 @@
 * Software
      - Environmental setting up (initial)
     	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
-     - Electron (frameworks):
+     - Electron:
         - [Electron](https://electronjs.org/)
         - [Electron Forge](https://www.electronforge.io/)
         - [Electron-installer-windows](https://github.com/electron-userland/electron-installer-windows)
@@ -78,8 +78,7 @@
         - [Homebrew](http://brew.sh/): package manager for MacOSX
         - [NPM](https://www.npmjs.com/): Javascript package manager
         - [NVM](https://github.com/nvm-sh/nvm): version manager for node.js
-      - NPM packages
-        - `Electron compile`
+
 * Online tools
      - Data validator
          - [Goodtables](https://goodtables.io/): frictionless tool to validate data, particularly spreadsheets

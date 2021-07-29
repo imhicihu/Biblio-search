@@ -43,7 +43,7 @@
      - UX:
         - [Material-UI](https://material-ui.com/)
      - Internal searcher:
-        - [Electron Algolia](https://github.com/electron/algolia-indices)
+        - ~~[Electron Algolia](https://github.com/electron/algolia-indices)~~
         - [Elasticlunr.js](https://github.com/weixsong/elasticlunr.js)
         - [lunr](https://github.com/olivernn/lunr.js)
      - Code editor

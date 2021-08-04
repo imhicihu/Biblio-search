@@ -78,6 +78,7 @@
         - [Homebrew](http://brew.sh/): package manager for MacOSX
         - [NPM](https://www.npmjs.com/): Javascript package manager
         - [NVM](https://github.com/nvm-sh/nvm): version manager for node.js
+        - [Bower]:(https://bower.io/): package manager
 
 * Online tools
      - Data validator

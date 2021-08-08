@@ -16,7 +16,7 @@
         - [Electron-installer-windows](https://github.com/electron-userland/electron-installer-windows)
         - [electron-builder-binaries](https://github.com/electron-userland/electron-builder-binaries)
         - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg)
-        - [Electron Fiddle](https://www.electronjs.org/fiddle): some test without dependencies. _Experimental_
+        - [Electron Fiddle](https://www.electronjs.org/fiddle): some test without dependencies
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
         * API:
               - [Electron API demos](https://github.com/electron/electron-api-demos/releases/)
@@ -58,7 +58,7 @@
         - [CSV to SQLite](https://github.com/isaiahnields/csv-to-sqlite): convert CSV files to SQLite databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
         - [sql.js](https://github.com/kripken/sql.js): a kind of SQLite compiled/formulated oriented to javascript
-        - [Dexie.js](https://dexie.org/): a wrapper for IndexedDB  (_experimental_ for our time schedule)
+        - ~~[Dexie.js](https://dexie.org/): a wrapper for IndexedDB  (_experimental_ for our time schedule)~~
         - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser): create, design, and edit database files compatible with SQLite
         ![screenshot.png](https://bitbucket.org/repo/yprLRxE/images/85065295-screenshot.png)
       - Data validators:
@@ -78,7 +78,7 @@
         - [Homebrew](http://brew.sh/): package manager for MacOSX
         - [NPM](https://www.npmjs.com/): Javascript package manager
         - [NVM](https://github.com/nvm-sh/nvm): version manager for node.js
-        - [Bower]:(https://bower.io/): package manager
+        - [Bower](https://bower.io/): package manager
 
 * Online tools
      - Data validator
@@ -88,8 +88,6 @@
         - [Javascript validator](https://validatejavascript.com/)
         - [Javascript scripting](https://www.javascripting.com/): source of the best JavaScript libraries, frameworks, and plugins
         - [Grunt.js](https://gruntjs.com/): automatization of javascript workload
-        - [Node.js](https://nodejs.org/): JavaScript runtime _built on_ Chrome's V8 JavaScript engine
-        - [NPM](https://www.npmjs.com/): package manager for JavaScript
         - [Tabulator](http://tabulator.info/): Javascript html table library
         - [QUnit](https://qunitjs.com/): JavaScript Unit Testing framework
      - Survey

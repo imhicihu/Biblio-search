@@ -10,7 +10,7 @@
 * Must comply with 2 premises: closed architecture across operating systems (_search_ and _show_ the results) and strict offline mode, so any query done do not need to connect to any remote server
 * This repo is a living document that will grow and adapt over time
 * The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
-![stand-alone.png](https://bitbucket.org/repo/yprLRxE/images/1597431224-20210823233043.gif)
+![stand-alone.png](https://i.ibb.co/xfCndYR/20210825132556.gif)
 
 ### What is this repository for? ###
 

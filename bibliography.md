@@ -14,3 +14,6 @@
 ## Data tables
 * [Designing Tables for Reusability](https://uxdesign.cc/designing-tables-for-reusability-490a3760533)
 * [Design better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
+
+## Security
+* [Content Security Policy (CSP)](https://content-security-policy.com/)

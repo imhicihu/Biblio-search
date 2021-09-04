@@ -10,7 +10,7 @@
 * Must comply with 2 premises: closed architecture across operating systems (_search_ and _show_ the results) and strict offline mode, so any query done do not need to connect to any remote server
 * This repo is a living document that will grow and adapt over time
 * The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
-![stand-alone.png](https://i.ibb.co/xfCndYR/20210825132556.gif)
+![stand-alone.png](https://i.ibb.co/fpJ85W6/app.gif)
 
 ### What is this repository for? ###
 
@@ -24,7 +24,7 @@
     - Check [colophon.md](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src/master/Colophon.md)
 * Configuration
     - ["Don't expect that you can build app for all platforms on one platform."](https://www.electron.build/multi-platform-build)
-* Dependencies
+* Packages handlers _et alia_
     - [Node.js](https://nodejs.org/)
     - [NPM](https://www.npmjs.com/)
         + Packages:

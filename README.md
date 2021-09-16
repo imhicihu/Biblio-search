@@ -11,6 +11,7 @@
 * This repo is a living document that will grow and adapt over time
 * The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 ![stand-alone.png](https://i.ibb.co/KXcKm37/app.gif)
+> Searching this terms: `Africa`, `patagonia`
 
 ### What is this repository for? ###
 

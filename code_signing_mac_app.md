@@ -21,8 +21,12 @@
 * Click `Open`.
 * Click `Open` to confirm the warning:
 * The `BiblioSearcher` welcome screen should appear
+
 ---------
 * Note that `BiblioSearcher` is an "unsigned application", so later versions of macOS will ask for extra confirmation the first time you run it.
+
+---------
+* [Open a Mac app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac)
 
 ---------
 * The Catalina macOS download is notarized and uses the "hardened runtime," which may reduce compatibility with certain modules. You may still run the regular 64-bit macOS download on Catalina; however, you must right click and choose `Open` when running that version for the first time.
@@ -31,7 +35,7 @@
 * [Notarizing Your App](https://samuelmeuli.com/blog/2019-12-28-notarizing-your-electron-app/)
 
 ---------
-`BiblioSearcher` canâ€™t be opened opened  because it was not downloaded from the App Store.
+`BiblioSearcher` can’t be opened opened  because it was not downloaded from the App Store.
 Your security preferences allow installation of only apps from the App Store.
 Click `Ok` then click the System Preferences button
 From the System Preferences click Security & Privacy button

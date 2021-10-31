@@ -35,7 +35,7 @@
 * [Notarizing Your App](https://samuelmeuli.com/blog/2019-12-28-notarizing-your-electron-app/)
 
 ---------
-`BiblioSearcher` can’t be opened opened  because it was not downloaded from the App Store.
+`BiblioSearcher` can't be opened opened  because it was not downloaded from the App Store.
 Your security preferences allow installation of only apps from the App Store.
 Click `Ok` then click the System Preferences button
 From the System Preferences click Security & Privacy button

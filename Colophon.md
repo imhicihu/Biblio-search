@@ -74,6 +74,8 @@
         - [SourceTree](https://www.sourcetreeapp.com/): GIT client
       - Local server environment on MacOSX
         - [httpster](https://github.com/SimbCo/httpster)
+      - Hash
+        - [fhash](https://github.com/sunjw/fhash)
       - Packages management
         - [Homebrew](http://brew.sh/): package manager for MacOSX
         - [NPM](https://www.npmjs.com/): Javascript package manager

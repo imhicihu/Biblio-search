@@ -83,6 +83,8 @@
         - [Bower](https://bower.io/): package manager
 
 * Online tools
+     - Installer
+         - [Microsoft App Center](https://install.appcenter.ms/): installer through Gmail, Hotmail or GitHub accounts
      - Data validator
          - [Goodtables](https://goodtables.io/): frictionless tool to validate data, particularly spreadsheets
      - Javascript:

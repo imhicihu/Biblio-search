@@ -24,7 +24,7 @@
 
 ---------
 * Note that `BiblioSearcher` is an "unsigned application", so later versions of macOS will ask for extra confirmation the first time you run it.
-
+* Note: Neither the macOS or Windows builds are signed, so expect warnings saying they are from an "untrusted developer".
 ---------
 Right click on the extracted LocalizationEditor.app and choose Open (just a double-clicking will show a warning because the app is only signed with a development certificate)
 ---------

@@ -19,7 +19,7 @@
         - [Electron Fiddle](https://www.electronjs.org/fiddle): some test without dependencies
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
         * API:
-              - [Electron API demos](https://github.com/electron/electron-api-demos/releases/)
+        - [Electron API demos](https://github.com/electron/electron-api-demos/releases/)
      - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
         - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)
@@ -61,14 +61,14 @@
         - ~~[Dexie.js](https://dexie.org/): a wrapper for IndexedDB  (_experimental_ for our time schedule)~~
         - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser): create, design, and edit database files compatible with SQLite
         ![screenshot.png](https://bitbucket.org/repo/yprLRxE/images/85065295-screenshot.png)
-      - Data validators:
+    - Data validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator): CSV self-validator
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator): UTF self-validator
         - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
         - [CSVLint](http://csvlint.io/): CSV linter for databases
         - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
         - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
-      - Terminal:
+  - Terminal:
         - [Hyper](https://hyper.is/): Terminal console for the MacOSX
       - GIT
         - [SourceTree](https://www.sourcetreeapp.com/): GIT client

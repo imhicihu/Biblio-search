@@ -1,4 +1,4 @@
-#### First stage
+### First stage
 ```
    # Clone this repository
    git clone https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/electron-quick-start

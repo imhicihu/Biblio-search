@@ -1,3 +1,4 @@
+### Procedure
 * Install dependencies: `npm install`
 * Run: `npm start`
 * Build for macOS: `npm run build-macos`

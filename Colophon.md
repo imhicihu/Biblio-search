@@ -1,12 +1,12 @@
 ## Technical requirements ##
 
 * Hardware
-     - Macbook 13"
+   - Macbook 13"
 	 - Macbook 15"
 	 - Dell notebook 15"
-     - Satechi Type-C Multiport Adapter (hub USB & Network access)
-     - _Hosting_: Consorcio Saavedra 15
-     - _Bandwidth_: Consorcio Saavedra 15
+	   - Satechi Type-C Multiport Adapter (hub USB & Network access)
+	  - _Hosting_: Consorcio Saavedra 15
+	   - _Bandwidth_: Consorcio Saavedra 15
 * Software
      - Environmental setting up (initial)
     	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment

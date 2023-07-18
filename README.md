@@ -9,13 +9,14 @@
 * Must comply with 2 premises: closed architecture across operating systems (_search_ and _show_ the results) and strict offline mode, so any query done do not need to connect to any remote server
 * This repo is a living document that will grow and adapt over time
 * The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
+<br> </br>
 ![stand-alone.gif](https://lh4.googleusercontent.com/BNzgl3yg31sJsItuJJ0FqNOr7yteXttYWKo33KMf_X0CKtLGA_bTdbho4Pl9EYuW1-E=w2400)
 > Searching this terms: `Africa`, `patagonia`
 
 ### What is this repository for? ###
 
 * Quick summary
-    - An application for search through up our library
+    - An application for search digital records through up our library
 
 ### How do I get set up? ###
 
@@ -35,20 +36,10 @@
     - [Homebrew](https://brew.sh/)
     - [Yarn](https://yarnpkg.com/)
     - [Gulp](https://gulpjs.com) (javascript task automatization)
-* Database
-    - Check our digital [repository](https://bitbucket.org/imhicihu/databases-repositories)
-
-### Source ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src)
-
-### Issues ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/issues)
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/commits/) section for the current status
+* Please check the [Commits](https://github.com/imhicihu/Biblio-search/commits/master) section for the current status
 
 ### Code of Conduct
 

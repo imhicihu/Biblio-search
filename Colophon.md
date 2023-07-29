@@ -8,7 +8,7 @@
 	  - _Hosting_: Consorcio Saavedra 15
 	   - _Bandwidth_: Consorcio Saavedra 15
 * Software
-     - Environmental setting up (initial)
+     - Initial environmental setting up
     	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
      - Electron:
         - [Electron](https://electronjs.org/)
@@ -18,7 +18,7 @@
         - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg)
         - [Electron Fiddle](https://www.electronjs.org/fiddle): some test without dependencies
         - [Ember Electron](https://ember-electron.js.org/): Test apps internal links and life cycles
-        * API:
+    - Electron API:
         - [Electron API demos](https://github.com/electron/electron-api-demos/releases/)
      - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)

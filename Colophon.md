@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
    - Macbook 13"
@@ -122,7 +122,7 @@
      - Typography
         - [Utopia](https://utopia.fyi/): responsive typography css calculator
 * Documentation
-     - _Vide_ [`Bibliography.md`](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src/e7760ff6ddfeae38d5ba7667477c334b087ca525/bibliography.md?at=master&fileviewer=file-view-default)
+     - _Vide_ [`Bibliography.md`](bibliography.md)
      - [Mozilla Developers Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
      - [Developer certificate](https://developercertificate.org/)
      - [libs.garden](https://libs.garden/): technical libraries searcher
@@ -131,6 +131,6 @@
      - Windows (and something in between, _ie._ Android environment) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
      - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.

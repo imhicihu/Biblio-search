@@ -1,4 +1,4 @@
-## Pros and Cons of Using SQLite with Electron
+### Pros and Cons of Using SQLite with Electron
 Just like the previous approaches, Using SQLite with Electron has some pros anc cons. Lets start with the pros:
 
 SQLite can be bundled with your Electron app so the end user doesn't need to install anything beside your application.

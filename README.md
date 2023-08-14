@@ -10,15 +10,15 @@
 * This repo is a living document that will grow and adapt over time
 * The principles of this project were driven by [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 <br> </br>
-![stand-alone.gif](https://lh4.googleusercontent.com/BNzgl3yg31sJsItuJJ0FqNOr7yteXttYWKo33KMf_X0CKtLGA_bTdbho4Pl9EYuW1-E=w2400)
+![stand-alone.gif](images/app.gif)
 > Searching this terms: `Africa`, `patagonia`
 
-### What is this repository for? ###
+### What is this repository for?
 
 * Quick summary
     - An application for search digital records through up our library
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Summary of set up
     - Check [colophon.md](Colophon.md)
@@ -37,7 +37,7 @@
     - [Yarn](https://yarnpkg.com/)
     - [Gulp](https://gulpjs.com) (javascript task automatization)
 
-### Changelog ###
+### Changelog
 
 * Please check the [Commits](https://github.com/imhicihu/Biblio-search/commits/master) section for the current status
 

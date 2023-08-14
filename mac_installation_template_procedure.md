@@ -1,3 +1,4 @@
+### Mac installation procedure
 By default, Mac OS only allows users to install applications from `verified sources`. In effect, this means that users are unable to install most applications downloaded from the internet or stored on physical media without receiving the error message below:
 ![trash.png](images/4253502906.jpg)
 

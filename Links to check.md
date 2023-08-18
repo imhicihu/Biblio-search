@@ -19,4 +19,6 @@
 * [FuseJS](https://fusejs.io/)
 * [fuzzysort](https://github.com/farzher/fuzzysort)
 * [flexsearch](https://github.com/nextapps-de/flexsearch)
-* 
+* [fuzzy-search](https://github.com/wouterrutgers/fuzzy-search)
+* [itemsjs](https://github.com/itemsapi/itemsjs)
+* [ElasticLunR](https://github.com/weixsong/elasticlunr.js)

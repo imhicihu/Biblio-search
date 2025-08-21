@@ -1,3 +1,5 @@
+![trello-board](images/Screenshot__2025-08-21.png)
+
 ### Technical requirements
 
 * Hardware
